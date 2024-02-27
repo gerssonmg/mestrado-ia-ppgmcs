@@ -3,8 +3,9 @@
 # 🧠 Mestrado em Inteligência Artificial 🤖
 
 Bem-vindo ao repositório do meu projeto de mestrado em Inteligência Artificial!
-Este espaço é dedicado à exploração, inovação e pesquisa no fascinante campo da IA,
- abrangendo desde aprendizado de máquina até visão computacional e processamento de linguagem natural.
+Este espaço é dedicado à exploração, inovação e pesquisa no fascinante campo
+da IA, abrangendo desde aprendizado de máquina até visão computacional e
+processamento de linguagem natural.
 
 ## 📚 Sobre o Projeto
 
@@ -66,8 +67,8 @@ Para entrar em contato, enviar feedback ou perguntas, você pode me encontrar aq
 
 ---
 
+```
 Agradeço por visitar este repositório e espero que encontre
 inspiração e conhecimento em nosso trabalho conjunto na vanguarda
 da Inteligência Artificial! 🌟
 ```
-
