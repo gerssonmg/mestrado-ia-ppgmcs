@@ -9,7 +9,7 @@ Este diretório contém uma coleção de projetos e competições desenvolvidos 
 - **Contexto**: Enfrentamento entre dois times de patos, cada um com vários indivíduos, competindo em um campo de batalha dinâmico.
 - **Objetivo**: Capturar bandeiras inimigas enquanto combate adversários e gerencia recursos.
 - **Tecnologia**: Java 8
-- **Código**: [Acessar Repositório](https://github.com/[Link_do_Repositório]/BattleCode)
+- **Código**: [Acessar Repositório](https://github.com/gerssonmg/battlecode24-scaffold)
 
 ### 🕹️ 2023
 
@@ -19,7 +19,7 @@ Este diretório contém uma coleção de projetos e competições desenvolvidos 
 - **Tecnologia**: Java
 - **Plataforma**: Windows (necessário devido ao SC2)
 - **Requisitos**: StarCraft 2 instalado
-- **Código**: [Acessar Repositório](https://github.com/[Link_do_Repositório]/StarCraft2Bot)
+- **Código**: [Acessar Repositório](https://github.com/gerssonmg/python-sc2)
 
 ### ⚔️ 2020
 
@@ -29,7 +29,7 @@ Este diretório contém uma coleção de projetos e competições desenvolvidos 
 - **Tecnologia**: Python
 - **Plataforma**: Windows (necessário para execução do .jar)
 - **Requisitos**: Servidor .jar em execução para conexão via socket com o script Python
-- **Código**: [Acessar Repositório](https://github.com/[Link_do_Repositório]/RussianCompetition)
+- **Código**: [Acessar Repositório](https://github.com/gerssonmg/AI-Cup-artificial-intelligence-programming)
 
 
 Certifique-se de explorar cada projeto para entender mais sobre os desafios enfrentados e as soluções implementadas. Fique à vontade para entrar em contato para discussões ou colaborações!
