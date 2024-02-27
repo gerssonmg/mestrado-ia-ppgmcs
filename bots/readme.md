@@ -1,5 +1,5 @@
 
-## 🎓 Mestrado em Inteligência Artificial - Projetos e Competições
+## 🎓 Projetos e Competições pessoais
 
 Este diretório contém uma coleção de projetos e competições desenvolvidos durante meu mestrado em Inteligência Artificial. Cada projeto apresenta desafios únicos, abordando diferentes aspectos da IA, programação e estratégia de jogo.
 
