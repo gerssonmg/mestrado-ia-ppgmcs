@@ -69,7 +69,7 @@ para facilitar o acesso e o aprofundamento no estudo da IA.
 Para entrar em contato, enviar feedback ou perguntas, você pode me encontrar aqui:
 
 - Email: gersoncafilho@gmail.com
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/g%C3%A9rson-aguiar-62057865/)
+- LinkedIn: [Gérson Aguiar](https://www.linkedin.com/in/g%C3%A9rson-aguiar-62057865/)
 
 ---
 
