@@ -1,5 +1,3 @@
-
-```markdown
 # 🧠 Mestrado em Inteligência Artificial 🤖
 
 Bem-vindo ao repositório do meu projeto de mestrado em Inteligência Artificial!
