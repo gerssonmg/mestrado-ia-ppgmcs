@@ -7,6 +7,14 @@ Este espaço é dedicado à exploração, inovação e pesquisa no fascinante ca
 da IA, abrangendo desde aprendizado de máquina até visão computacional e
 processamento de linguagem natural.
 
+## 🎓 Matérias Iniciais
+
+Neste semestre, estou me concentrando em duas matérias fundamentais que formam a base do conhecimento em inteligência artificial:
+
+- **ML: Introdução a Machine Learning** - Esta matéria aborda os conceitos fundamentais do aprendizado de máquina, incluindo tipos de aprendizado, principais algoritmos e suas aplicações práticas.
+- **RNA: Redes Neurais Artificiais** - Focada no estudo das redes neurais, esta matéria explora a arquitetura, funcionamento e aplicação das RNAs em problemas complexos de classificação, regressão e mais.
+
+
 ## 📚 Sobre o Projeto
 
 Este projeto visa desenvolver, testar e implementar algoritmos de IA que possam resolver
@@ -35,7 +43,7 @@ Para começar a explorar os projetos e experimentos, siga estes passos:
 
 1. Clone o repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone git@github.com:gerssonmg/mestrado-ia-ppgmcs.git
    ```
 2. Instale as dependências:
    ```bash
